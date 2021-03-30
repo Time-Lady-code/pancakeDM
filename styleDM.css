@@ -1,0 +1,23 @@
+body
+{
+    background-color: #fff3db;
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: #FFFFFF;
+    background-color: #f02425;
+    text-align: center;    
+}
+
+h2
+{
+    color: #f02425;
+    text-align: center;
+}
+
+#resume
+{
+    list-style-type: none;
+}
